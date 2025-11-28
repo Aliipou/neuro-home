@@ -109,7 +109,7 @@ neurohome/
 
 ```bash
 # Clone the repository
-git clone https://github.com/neurohome/neurohome.git
+git clone https://github.com/aliipou/neurohome.git
 cd neurohome
 
 # Install dependencies
