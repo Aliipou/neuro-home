@@ -1,0 +1,20 @@
+{
+  "name": "@neurohome/scene-engine",
+  "version": "0.1.0",
+  "description": "Scene orchestration engine for NeuroHome",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.7",
+    "tsx": "^4.7.0",
+    "vitest": "^1.0.0"
+  }
+}
